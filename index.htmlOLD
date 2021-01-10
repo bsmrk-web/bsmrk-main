@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" style = "height:100%">
+
+<head>
+  <meta name="description" content="Bismarck" />
+  <meta charset="utf-8">
+  <title>Bismarck</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?Libre+Baskerville:700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:200" rel="stylesheet">
+</head>
+
+<style>
+@media all and (max-device-width: 640px){
+    p {
+        font-size: 50px;
+    }
+}
+</style>
+
+<body style="background-color:#2d2d2d; height: 100%; display: flex;
+	align-items: center; 
+	justify-content: center;">
+  
+	<div class="container" style = "
+    display: flex;
+	align-items: center; 
+	justify-content: right; 
+	flex-direction: column;">
+		<p style = "font-family: 'Libre Baskerville', serif; color: #ecf0f1; font-size: 80px; margin: 0px; height: 85px;">
+		BISMARCK
+		</p>		
+		<p style = "color: #ecf0f1; margin-top:0px; margin-bottom:150px; font-family: 'Libre Franklin', sans-serif;">contact@bismarckanalysis.com</p>
+	</div>
+
+<script>
+</script>
+
+</body>
+</html>
